@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71947" started-at="2019-02-28T10:44:19Z" finished-at="2019-02-28T10:45:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71947" started-at="2019-02-28T10:44:19Z" finished-at="2019-02-28T10:45:31Z">
+      <class name="com.acc.selenium_practice.excelread">
+        <test-method status="PASS" signature="launch_browser()[pri:0, instance:com.acc.selenium_practice.excelread@1c7db30]" name="launch_browser" is-config="true" duration-ms="9816" started-at="2019-02-28T16:14:19Z" finished-at="2019-02-28T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method status="PASS" signature="legister()[pri:0, instance:com.acc.selenium_practice.excelread@1c7db30]" name="legister" duration-ms="59529" started-at="2019-02-28T16:14:29Z" finished-at="2019-02-28T16:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- legister -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.acc.selenium_practice.excelread@1c7db30]" name="afterTest" is-config="true" duration-ms="2580" started-at="2019-02-28T16:15:28Z" finished-at="2019-02-28T16:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.acc.selenium_practice.excelread -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
